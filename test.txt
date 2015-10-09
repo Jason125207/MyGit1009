@@ -1,4 +1,4 @@
-Hello world.   aaa
+Hello world.   aa
 
 date:2015.10.9   bbb
 
@@ -7,5 +7,4 @@ add message02.
 
 add message03.
 
-create a new branch.
-create another branch on master.
+branch conflict test.
